@@ -1,5 +1,6 @@
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=KhajiitLikeToSneak&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats) -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KhajiitLikeToSneak&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rdrm.vercel.app?user=rdrm&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=900" alt="GitHub Streak" /></a>
+
+
 <!--
 **KhajiitLikeToSneak/KhajiitLikeToSneak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
